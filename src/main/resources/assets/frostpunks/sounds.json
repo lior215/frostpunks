@@ -1,0 +1,20 @@
+{
+  "rise_and_shine": {
+    "subtitle": "sounds.biomancyadditions.rise_and_shine",
+    "sounds": [
+      "frostpunks:rise_and_shine"
+    ]
+  },
+  "day_ends": {
+    "subtitle": "biomancyadditions.day_ends",
+    "sounds": [
+      "frostpunks:day_ends"
+    ]
+  },
+  "frost_here": {
+    "subtitle": "biomancyadditions.frost_here",
+    "sounds": [
+      "frostpunks:frost_here"
+    ]
+  }
+}
